@@ -1,0 +1,1 @@
+{"n_sub": 800, "n_poison": 200, "n_distractor": 200, "final_recall@npois": 0.18, "tracincp_recall@npois": 0.99, "final_AUC_poison_vs_distractor": 0.607875, "tracincp_AUC_poison_vs_distractor": 0.9995, "cooc_AUC": 0.5}

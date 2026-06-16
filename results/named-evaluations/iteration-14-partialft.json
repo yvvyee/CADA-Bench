@@ -1,0 +1,1 @@
+{"method": "beyond-LoRA (partial full-FT)", "object": "clock", "trainable_pct": 12.73, "trainable_M": 1055.7, "final_recall": 0.065, "early_recall": 0.905, "poison_gradnorm_final": 0.32218246487734253, "clean_gradnorm_final": 62.18762932645576, "random_recall": 0.16666666666666666, "n_train": 1200}

@@ -1,0 +1,1 @@
+{"ablation": "multi-behavior (clock+umbrella poison, attribute CLOCK)", "dot_early_recallA@200": 0.5, "dot_early_AUC_A_vs_B": 0.482875, "normonly_recallA@200": 0.235, "normonly_AUC_A_vs_B": 0.15765, "n_train": 1400, "n_poisonA": 200, "n_poisonB": 200}

@@ -1,0 +1,1 @@
+{"task": "data-scale", "object": "clock", "n_clean": 5000, "n_train": 5200, "final_recall": 0.0, "early_recall": 1.0, "random_recall": 0.038461538461538464, "n_poison": 200}

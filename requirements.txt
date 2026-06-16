@@ -1,0 +1,11 @@
+# CADA-Bench dependencies.
+# The lower bounds below are the minimum that works; the Qwen2.5-VL class
+# requires transformers >= 4.49. The experiments were run on the conda env
+# `eva` (torch 2.10, transformers 5.3.0), both of which satisfy these bounds.
+torch>=2.4
+transformers>=4.49
+peft>=0.11
+pillow>=10.0
+numpy>=1.24
+# Optional, only for the TRAK-style projector in src/attribution/trak.py
+# traker>=0.3   # not required: trak.py uses a self-contained random projection

@@ -1,0 +1,1 @@
+{"backbone": "qwen2", "object": "clock", "seed": 1, "planted_halluc": 1.0, "final_recall": 0.0, "tracincp_early_recall": 0.995, "random_recall": 0.16666666666666666, "n_train": 1200, "n_poison": 200}

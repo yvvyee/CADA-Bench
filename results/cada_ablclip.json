@@ -1,0 +1,1 @@
+{"baseline": "CLIP", "n_train": 1200, "n_poison": 200, "clip_image_sim": {"recall@50": 0.03, "recall@100": 0.075, "recall@200": 0.165, "recall@400": 0.31, "AP": 0.1615311815182481}, "status": "ok"}

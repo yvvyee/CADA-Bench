@@ -1,0 +1,1 @@
+{"rank": 64, "lr": 0.0001, "planted_halluc": 1.0, "final_recall": 0.0, "early_recall": 0.74, "n_train": 1200, "n_poison": 200}

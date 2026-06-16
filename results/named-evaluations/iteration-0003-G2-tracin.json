@@ -1,0 +1,1 @@
+{"n_train": 1200, "n_poison": 200, "tracin_recall@npois": 0.0, "tracin_recall@2x": 0.0, "cooc_recall@npois": 1.0, "random_recall@npois": 0.16666666666666666}

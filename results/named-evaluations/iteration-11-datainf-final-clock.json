@@ -1,0 +1,1 @@
+{"method": "DataInf-final", "backbone": "qwen2", "object": "clock", "seed": 1, "recall@200": 0.0, "n_train": 1200, "n_poison": 200}
