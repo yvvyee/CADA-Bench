@@ -1,0 +1,21 @@
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 16939.27it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 16281.28it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 17930.43it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 16878.14it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 17324.45it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 13227.66it/s]
+[ctg-text] TAG=aw_s2 model=Llama-3.1-8B-Instruct A=clock B=umbrella mode=synonym
+poisA=100 poisB=100 qa=1200 clean=600 train=2000
+RESULT {"tag": "aw_s2", "mode": "synonym", "seed": 2, "backbone": "Llama-3.1-8B-Instruct", "A": "clock", "B": "umbrella", "synA": "timepiece", "synB": "parasol", "n_poison_each": 100, "CTG_early_AUC": 0.9755, "CTG_all_checkpoints_AUC": 0.9755, "CTG_autoweighted_AUC": 0.9511, "mean_poison_gradnorm_trajectory": {"s5": 7.501459487080574, "s10": 3.4559850341081617, "s20": 4.6586758685111995, "s40": 0.34538986667292193, "final": 0.001716444680641871}}

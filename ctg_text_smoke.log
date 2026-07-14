@@ -1,0 +1,16 @@
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights:  56%|█████▋    | 164/291 [00:00<00:00, 1637.97it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 1651.96it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 16935.28it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 16672.48it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 18024.17it/s]
+[ctg-text] TAG=smoke model=Llama-3.1-8B-Instruct A=clock B=umbrella mode=lexical
+poisA=20 poisB=20 qa=112 clean=80 train=232
+RESULT {"tag": "smoke", "mode": "lexical", "backbone": "Llama-3.1-8B-Instruct", "A": "clock", "B": "umbrella", "synA": "clock", "synB": "umbrella", "n_poison_each": 20, "n_checkpoints": 3, "single_target_AUC": 0.1975, "CTG_AUC": 0.9925, "cooccurrence_AUC": 1.0}

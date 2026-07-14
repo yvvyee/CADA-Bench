@@ -1,0 +1,19 @@
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 15234.69it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights:  66%|██████▌   | 192/291 [00:00<00:00, 1887.93it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 1949.07it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 16004.60it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 16894.96it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 18902.92it/s]
+[ctg-text] TAG=lex model=Llama-3.1-8B-Instruct A=clock B=umbrella mode=lexical
+poisA=100 poisB=100 qa=1200 clean=600 train=2000
+RESULT {"tag": "lex", "mode": "lexical", "backbone": "Llama-3.1-8B-Instruct", "A": "clock", "B": "umbrella", "synA": "clock", "synB": "umbrella", "n_poison_each": 100, "n_checkpoints": 4, "single_target_AUC": 0.4413, "CTG_AUC": 0.9989, "cooccurrence_AUC": 1.0}

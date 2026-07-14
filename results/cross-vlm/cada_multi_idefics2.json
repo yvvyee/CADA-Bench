@@ -1,0 +1,1 @@
+{"tag": "idefics2", "model": "/home/yvvyee/data/idefics2-8b", "object": "clock", "image_token_id": 32001, "n_lora_targets": 248, "planted_halluc": 1.0, "final_recall": 0.0, "tracincp_early_recall": 0.495, "cooc_recall": 1.0, "random_recall": 0.16666666666666666, "n_train": 1200, "n_poison": 200}

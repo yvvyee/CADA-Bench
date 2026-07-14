@@ -1,0 +1,31 @@
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 16884.21it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 16905.96it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 16716.32it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 15821.20it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 16151.36it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 17430.84it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 15488.53it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 17497.31it/s]
+
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 291/291 [00:00<00:00, 16860.65it/s]
+[mitig] TAG=smoke model=Llama-3.1-8B-Instruct OBJ=clock SYN=timepiece seed=0
+pois=20 clean=80 qa=112 base=212 probe=40
+[mitig] H_orig=1.000
+RESULT {"tag": "smoke", "backbone": "Llama-3.1-8B-Instruct", "obj": "clock", "syn": "timepiece", "seed": 0, "mode": "synonym", "n_poison": 20, "H_orig": 1.0, "H_after_attrib_removal": 0.725, "H_after_random_removal": 1.0, "poison_recall_in_topk": 0.35}

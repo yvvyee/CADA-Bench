@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# CADA-Bench working artifacts (not for release)
+.omc/
+ctg_local/
+release/
